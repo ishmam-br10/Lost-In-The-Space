@@ -1,6 +1,6 @@
 # Lost-In-The-Space
 A basic bubble shooter game made with OpenGL. This game is made with only MPL and MPC algorithm. The score and updates will be shown in Terminal.
-You can directly get the executable file of the game (here)[https://github.com/ishmam-br10/Lost-In-The-Space/releases/download/exe/source.exe]
+You can directly get the executable file of the game [here](https://github.com/ishmam-br10/Lost-In-The-Space/releases/download/exe/source.exe)
 
 Rules of the game:
 1. You get one point for shooting a normal bubble
