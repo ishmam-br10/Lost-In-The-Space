@@ -9,7 +9,10 @@ Rules of the game:
 4. Three missed "Falling Bubble" will result in Game Over
 5. Direct collision with the spaceship and the bubble will result in Game Over.
 
+
 Screenshot:
+
+
 ![image](https://github.com/user-attachments/assets/f3b0159a-12f8-440f-956f-fcfd60434801)
 ![image](https://github.com/user-attachments/assets/c0427a53-c313-4bbb-b768-50b70c981d18)
 ![image](https://github.com/user-attachments/assets/9b103360-fbde-42b4-97ce-18505e0f7aae)
